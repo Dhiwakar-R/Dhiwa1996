@@ -1,0 +1,25 @@
+#include<stdio.h>
+int main()
+{
+      int n,a[30],k,b,i,j,x,y;
+      printf("Enter the no. of element:"); 
+      scanf("%d",&n);
+      printf("Enter the elements n:");
+      {
+         for(x=0;x<=n-k;x++)
+         {  printf("%d\n",a[j]);
+               }
+            if(b==1)
+            printf("%d\n",a[k]);
+            else
+           {
+               i=x+b-1;
+               for(j=y;j<n;j++)
+               {
+                   for(i=x;i<y;i++)
+                   printf("%d",a[i]);
+                 
+            }
+          }
+      }
+}
