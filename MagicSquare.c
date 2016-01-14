@@ -2,7 +2,7 @@
 int main()
 {
     int a[10][10],i,j,n,k;
-    printf("Enter the size of odd no.");
+    printf("Enter the size of odd value only:");
 	scanf("%d",&n);
     for(i=0;i<n;i++)
     {
