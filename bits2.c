@@ -15,7 +15,7 @@ int main()
 	}
 	else
 	{
-	printf("undefined,pls try a no. greater than 0");
+	printf("Bit req = 1");
 	}
 	return 0;
 }
