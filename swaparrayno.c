@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int a[10],n,i,half,temp,start;
+	int a[10],n,i,half,start;
 	printf("Enter array size:\n");
 	scanf("%d",&n);
 	printf("Enter no.s in array:\n");
